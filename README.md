@@ -51,7 +51,8 @@ print('X%d = %0.2f'%(i,x[i]),end=' ')
 
 ## Output:
 
-![Screenshot 2025-04-26 092940](https://github.com/user-attachments/assets/9b47c08a-1d67-4387-a8bf-9f6ba3ed1303)
+![Screenshot 2025-05-17 153304](https://github.com/user-attachments/assets/cd07b078-37ea-45ee-93fd-97a21b351ef5)
+
 
 
 ## Result:
